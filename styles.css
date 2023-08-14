@@ -66,7 +66,10 @@ section {
   margin-bottom: 20px;
   border-radius: 25px;
 }
-
+/* styling for image in contact*/
+.image {
+  border-radius: 30%;
+}
 /* Styling for the footer */
 footer {
   text-align: center;
